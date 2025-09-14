@@ -386,9 +386,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📞 İletişim
 
-- **Email** - [your-email@example.com]
-- **LinkedIn** - [Your LinkedIn Profile]
-- **GitHub** - [Your GitHub Profile]
+- **Email** - [ahmetenesyensiz@gmail.com]
+- **LinkedIn** - [https://www.linkedin.com/in/ahmetenesyensiz/]
+- **GitHub** - [https://github.com/Ahmetenesyensiz]
 
 ---
 
